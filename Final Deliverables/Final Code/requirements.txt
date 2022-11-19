@@ -1,0 +1,6 @@
+Flask
+ibm_db
+bcrypt
+sendmail
+sendgrid
+
